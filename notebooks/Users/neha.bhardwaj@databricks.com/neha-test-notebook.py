@@ -112,3 +112,6 @@ display(dbutils.fs.ls("dbfs:/databricks/init/%s/postgresql-install.sh"%clusterNa
 # COMMAND ----------
 
 1+1
+
+
+hello, testing
